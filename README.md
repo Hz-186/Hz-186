@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Hz-186</h2>
+<h2 align="center">Hi 👋, I'm Hz</h2>
 
 <p align="center">
   🤖 Passionate about <b>AI Agents</b> & <b>Next-Gen Coding Tools</b> (Claude Code, Codex, Cursor)<br/>
