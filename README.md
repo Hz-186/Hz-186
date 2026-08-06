@@ -21,8 +21,3 @@
   <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hz-186&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hz-186&layout=compact&theme=tokyonight&hide_border=true" height="135" />
-</p>
