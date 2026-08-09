@@ -9,7 +9,7 @@
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-darkblue?style=for-the-badge&logo=gin&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-5C2D91?style=for-the-badge&logo=databricks&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
